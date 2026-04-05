@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
