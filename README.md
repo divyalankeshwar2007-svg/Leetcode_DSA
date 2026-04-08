@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +50,5 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
