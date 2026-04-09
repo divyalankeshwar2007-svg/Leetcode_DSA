@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
