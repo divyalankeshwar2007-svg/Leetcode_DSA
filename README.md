@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0283-move-zeroes) |
 ## String
