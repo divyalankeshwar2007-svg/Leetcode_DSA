@@ -40,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -60,4 +61,8 @@
 | [0088-merge-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
