@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
@@ -37,6 +38,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0125-valid-palindrome) |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
