@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -20,6 +21,7 @@
 | [0066-plus-one](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0283-move-zeroes) |
@@ -46,6 +48,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
