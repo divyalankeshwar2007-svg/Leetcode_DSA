@@ -35,6 +35,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0283-move-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -127,4 +129,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
