@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -49,6 +50,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
