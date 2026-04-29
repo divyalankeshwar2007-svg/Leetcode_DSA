@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0217-contains-duplicate) |
@@ -70,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0242-valid-anagram) |
