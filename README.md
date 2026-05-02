@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
@@ -22,6 +23,7 @@
 | [0014-longest-common-prefix](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
@@ -151,6 +153,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 ## Trie
 |  |
