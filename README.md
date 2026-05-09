@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0509-fibonacci-number) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
