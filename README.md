@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0509-fibonacci-number) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -115,6 +117,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
