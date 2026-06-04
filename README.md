@@ -46,6 +46,7 @@
 | [0303-range-sum-query-immutable](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -109,6 +110,7 @@
 | [0070-climbing-stairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
