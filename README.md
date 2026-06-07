@@ -16,6 +16,7 @@
 | [0070-climbing-stairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -105,6 +106,7 @@
 | [0344-reverse-string](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Design
 |  |
