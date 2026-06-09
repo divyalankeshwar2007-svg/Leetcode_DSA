@@ -37,6 +37,7 @@
 | [0066-plus-one](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0136-single-number) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
@@ -206,4 +208,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
