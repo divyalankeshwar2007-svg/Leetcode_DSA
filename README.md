@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
