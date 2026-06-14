@@ -221,4 +221,20 @@
 | [0040-combination-sum-ii](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0090-subsets-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
