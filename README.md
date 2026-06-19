@@ -32,6 +32,7 @@
 | [0027-remove-element](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0046-permutations) |
@@ -69,6 +70,7 @@
 | [0001-two-sum](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0217-contains-duplicate) |
@@ -200,6 +202,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
@@ -219,6 +222,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0046-permutations) |
