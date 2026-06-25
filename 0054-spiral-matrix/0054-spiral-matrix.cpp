@@ -12,7 +12,6 @@ public:
         int top = 0, bottom = n-1;
 
         while(top<=bottom && left<=right){
-
             for(int i = left; i <= right; i++){
             v.push_back(matrix[top][i]);
             }
@@ -37,7 +36,6 @@ public:
                 left++;
             }
         }
-        
         return v;
     }
 };
