@@ -65,6 +65,7 @@
 | [0303-range-sum-query-immutable](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -180,6 +181,7 @@
 | [0035-search-insert-position](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
