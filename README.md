@@ -67,6 +67,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0912-sort-an-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -170,6 +171,7 @@
 | [0242-valid-anagram](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0389-find-the-difference) |
+| [0912-sort-an-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -210,6 +212,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -273,4 +276,24 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
