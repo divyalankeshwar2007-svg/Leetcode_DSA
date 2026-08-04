@@ -35,6 +35,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0037-sudoku-solver) |
@@ -184,6 +185,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0069-sqrtx) |
