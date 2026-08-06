@@ -12,14 +12,18 @@ public:
 
         int sum = 0;
         for(int i = 0;i<s.size() ; i++){
+            
             int curr = mp[s[i]];
+
             if(i< s.size() - 1 &&curr < mp[s[i+1]]){
                 sum-=curr;
             }
+
             else{
                 sum+=curr;
             }
         }
+
         return sum;
     }
 };
