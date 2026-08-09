@@ -43,6 +43,7 @@
 | [0040-combination-sum-ii](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0054-spiral-matrix) |
@@ -85,6 +86,7 @@
 | [0012-integer-to-roman](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0217-contains-duplicate) |
@@ -126,6 +128,7 @@
 | [0020-valid-parentheses](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0125-valid-palindrome) |
@@ -169,6 +172,7 @@
 | ------- |
 | [0015-3sum](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
