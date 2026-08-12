@@ -20,6 +20,7 @@
 | [0326-power-of-three](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -72,6 +73,7 @@
 | [0485-max-consecutive-ones](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0912-sort-an-array) |
@@ -182,6 +184,7 @@
 | [0242-valid-anagram](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/3536-maximum-product-of-two-digits) |
