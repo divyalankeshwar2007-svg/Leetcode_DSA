@@ -206,6 +206,7 @@
 | [0069-sqrtx](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0704-binary-search) |
@@ -351,5 +352,6 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
