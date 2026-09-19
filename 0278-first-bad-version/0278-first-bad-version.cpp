@@ -11,7 +11,7 @@ public:
 
             int mid = low + (high - low)/2;
 
-            int isbad = isBadVersion(mid);
+            bool isbad = isBadVersion(mid);
 
             if(isbad == true){
                 high = mid;
