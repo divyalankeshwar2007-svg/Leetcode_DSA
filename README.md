@@ -76,6 +76,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0912-sort-an-array) |
@@ -210,6 +211,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
