@@ -20,6 +20,7 @@
 | [0326-power-of-three](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0877-stone-game) |
@@ -211,6 +212,7 @@
 | [0278-first-bad-version](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/divyalankeshwar2007-svg/Leetcode_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
